@@ -45,8 +45,9 @@ Trong dự án này, em đảm nhiệm vai trò:
 - Microsoft Word
 - GitHub
 
-## 7. Tài liệu dự án
+## 7. Tài liệu đồ án
 - Báo cáo đầy đủ: `/docs/DoAnPTTK_VoPhuongAnh_DH52200344.pdf`
+- Link đồ án web triển khai từ đồ án phân tích này: https://github.com/phanhvo/DoAnThucTapChuyenNganh 
 
 ## 8. Ghi chú
 Đây là đồ án học tập nhằm thể hiện kiến thức và kỹ năng **Business Analysis** trong lĩnh vực hệ thống thông tin.
