@@ -47,8 +47,6 @@ Trong dự án này, em đảm nhiệm vai trò:
 
 ## 7. Tài liệu dự án
 - Báo cáo đầy đủ: `/docs/DoAnPTTK_VoPhuongAnh_DH52200344.pdf`
-- Sơ đồ Use Case: `/diagrams/`
-- Sơ đồ ERD & dữ liệu: `/diagrams/`
 
 ## 8. Ghi chú
 Đây là đồ án học tập nhằm thể hiện kiến thức và kỹ năng **Business Analysis** trong lĩnh vực hệ thống thông tin.
